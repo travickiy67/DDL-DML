@@ -41,7 +41,7 @@
 
 **Слрин 4**
 
-![img](https://github.com/travickiy67/DDL-DML/blob/main/img/img1.3.png)  
+![img](https://github.com/travickiy67/DDL-DML/blob/main/img/img1.4.png)  
 
 1.6. Переподключитесь к базе данных от имени sys_temp.
 
